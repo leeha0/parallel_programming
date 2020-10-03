@@ -1,7 +1,7 @@
 package chapter4;
 
-import annotation.GuardedBy;
 import annotation.ThreadSafe;
+import net.jcip.annotations.GuardedBy;
 
 @ThreadSafe
 public class Ex_4_1_Counter {

@@ -1,7 +1,7 @@
 package chapter4;
 
-import annotation.GuardedBy;
 import annotation.ThreadSafe;
+import net.jcip.annotations.GuardedBy;
 
 import java.util.HashSet;
 import java.util.Set;

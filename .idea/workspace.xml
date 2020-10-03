@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4606e5-ac4a-4b6c-a629-85250963e761" name="Default Changelist" comment="" />
+    <list default="true" id="df4606e5-ac4a-4b6c-a629-85250963e761" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/annotation/GuardedBy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter4/Ex_4_11_SafePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter4/Ex_4_11_SafePoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter4/Ex_4_1_Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter4/Ex_4_1_Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter4/Ex_4_2_PersonSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter4/Ex_4_2_PersonSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter4/Ex_4_3_PrivateLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter4/Ex_4_3_PrivateLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter4/Ex_4_4_MonitorVehicleTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter4/Ex_4_4_MonitorVehicleTracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +37,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iIuSnpRb4r3aFVDwQsjOpXSkNK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -46,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapter5" />
       <recent name="annotation" />
       <recent name="chapter4" />
     </key>
@@ -92,10 +108,18 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1601626109904" />
+    <state x="486" y="328" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601709285167">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="486" y="328" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1601709285167" />
     <state x="0" y="23" width="476" height="877" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601619318987">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="0" y="23" width="476" height="877" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1601619318987" />
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601711453713">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1601711453713" />
     <state x="458" y="215" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1601608935163">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -108,9 +132,13 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1601617640853" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1601625249099">
+    <state x="378" y="218" width="683" height="486" key="find.popup" timestamp="1601711482751">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1601625249099" />
+    <state x="378" y="218" width="683" height="486" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1601711482751" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1601714608003">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1601714608003" />
   </component>
 </project>
