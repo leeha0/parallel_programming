@@ -195,10 +195,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="314" y="127" width="811" height="669" key="#Project_Structure" timestamp="1602231434609">
+    <state x="314" y="127" width="811" height="669" key="#Project_Structure" timestamp="1603206605672">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="314" y="127" width="811" height="669" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1602231434609" />
+    <state x="314" y="127" width="811" height="669" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1603206605672" />
     <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601626020527">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -207,18 +207,18 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="343" y="156" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1440.877@0.23.1440.877" timestamp="1601618151590" />
-    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1602239790061">
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1603207520044">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1602239790061" />
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1603207520044" />
     <state x="486" y="328" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601709285167">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="486" y="328" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1601709285167" />
-    <state x="0" y="23" width="476" height="877" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601619318987">
+    <state x="0" y="23" width="476" height="877" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603204818171">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="0" y="23" width="476" height="877" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1601619318987" />
+    <state x="0" y="23" width="476" height="877" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1603204818171" />
     <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601711453713">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -251,17 +251,17 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1602231202060" />
-    <state x="378" y="218" width="683" height="486" key="find.popup" timestamp="1601711482751">
+    <state x="378" y="218" width="683" height="486" key="find.popup" timestamp="1603205025575">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="378" y="218" width="683" height="486" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1601711482751" />
+    <state x="378" y="218" width="683" height="486" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1603205025575" />
     <state x="385" y="211" width="670" height="675" key="run.anything.popup" timestamp="1602231483264">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="385" y="211" width="670" height="675" key="run.anything.popup/0.23.1440.877@0.23.1440.877" timestamp="1602231483264" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1602234249327">
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1603207616804">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1602234249327" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1603207616804" />
   </component>
 </project>
