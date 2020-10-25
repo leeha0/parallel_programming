@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="df4606e5-ac4a-4b6c-a629-85250963e761" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter6/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +97,9 @@
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="chapter5" />
       <recent name="annotation" />
@@ -195,10 +198,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="314" y="127" width="811" height="669" key="#Project_Structure" timestamp="1603206605672">
+    <state x="314" y="127" width="811" height="669" key="#Project_Structure" timestamp="1603640964323">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="314" y="127" width="811" height="669" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1603206605672" />
+    <state x="314" y="127" width="811" height="669" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1603640964323" />
     <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601626020527">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -207,10 +210,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="343" y="156" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1440.877@0.23.1440.877" timestamp="1601618151590" />
-    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1603207520044">
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1603640480250">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1603207520044" />
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1603640480250" />
     <state x="486" y="328" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601709285167">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -227,30 +230,30 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="215" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1440.877@0.23.1440.877" timestamp="1601608935163" />
-    <state width="1396" height="230" key="GridCell.Tab.0.bottom" timestamp="1602232298472">
+    <state width="1396" height="230" key="GridCell.Tab.0.bottom" timestamp="1603209814802">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602232298472" />
-    <state width="1396" height="230" key="GridCell.Tab.0.center" timestamp="1602232298471">
+    <state width="1396" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603209814802" />
+    <state width="1396" height="230" key="GridCell.Tab.0.center" timestamp="1603209814801">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1602232298471" />
-    <state width="1396" height="230" key="GridCell.Tab.0.left" timestamp="1602232298471">
+    <state width="1396" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603209814801" />
+    <state width="1396" height="230" key="GridCell.Tab.0.left" timestamp="1603209814800">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1602232298471" />
-    <state width="1396" height="230" key="GridCell.Tab.0.right" timestamp="1602232298472">
+    <state width="1396" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603209814800" />
+    <state width="1396" height="230" key="GridCell.Tab.0.right" timestamp="1603209814801">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1602232298472" />
+    <state width="1396" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603209814801" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1602231522101">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1602231522101" />
-    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1602231202060">
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1603626707913">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1602231202060" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1603626707913" />
     <state x="378" y="218" width="683" height="486" key="find.popup" timestamp="1603205025575">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
